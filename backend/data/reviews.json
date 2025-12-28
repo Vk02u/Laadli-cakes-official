@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "rating": 5,
+    "comment": "Amazing cakes! The chocolate truffle cake was absolutely delicious. Highly recommend!",
+    "date": "2024-12-25",
+    "pinned": true
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "rating": 5,
+    "comment": "Best cake shop in town. Fresh ingredients and beautiful presentation. My birthday cake was perfect!",
+    "date": "2024-12-20",
+    "pinned": true
+  },
+  {
+    "id": 3,
+    "name": "Anjali Gupta",
+    "rating": 4,
+    "comment": "Love the variety of cakes available. The fruit cake was fresh and tasty. Great service!",
+    "date": "2024-12-15",
+    "pinned": true
+  },
+  {
+    "id": 4,
+    "name": "Priya Sharma",
+    "rating": 5,
+    "comment": "Amazing cakes! The chocolate truffle cake was absolutely delicious. Highly recommend!",
+    "date": "2024-12-25",
+    "pinned": true
+  },
+  {
+    "id": 5,
+    "name": "Rahul Verma",
+    "rating": 5,
+    "comment": "Best cake shop in town. Fresh ingredients and beautiful presentation. My birthday cake was perfect!",
+    "date": "2024-12-20",
+    "pinned": true
+  },
+  {
+    "id": 6,
+    "name": "Anjali Gupta",
+    "rating": 4,
+    "comment": "Love the variety of cakes available. The fruit cake was fresh and tasty. Great service!",
+    "date": "2024-12-15",
+    "pinned": true
+  },
+  {
+    "id": 7,
+    "name": "Vikram Singh",
+    "rating": 5,
+    "comment": "Outstanding quality and taste! The red velvet cake was moist and flavorful. Best cake shop ever!",
+    "date": "2024-12-10",
+    "pinned": true
+  },
+  {
+    "id": 8,
+    "name": "Kavita Patel",
+    "rating": 5,
+    "comment": "Beautiful presentation and amazing customer service. My wedding cake exceeded all expectations!",
+    "date": "2024-12-05",
+    "pinned": true
+  }
+]

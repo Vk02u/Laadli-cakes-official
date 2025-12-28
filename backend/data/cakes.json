@@ -1,0 +1,734 @@
+[
+  {
+    "id": 1,
+    "name": "Butterscotch",
+    "title": "Butterscotch",
+    "category": "Classic",
+    "priceHalfKg": 300,
+    "priceOneKg": 500,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bs_1.jpg",
+      "/src/images_cake/bs_2.jpg",
+      "/src/images_cake/bs_3.jpg",
+      "/src/images_cake/bs_4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Dream",
+    "title": "Vanilla Dream",
+    "category": "Classic",
+    "priceHalfKg": 300,
+    "priceOneKg": 500,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/vd_1.jpg",
+      "/src/images_cake/vd_2.jpg",
+      "/src/images_cake/vd_3.jpg",
+      "/src/images_cake/vd_4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vanilla Dry Fruit",
+    "title": "Vanilla Dry Fruit",
+    "category": "Classic",
+    "priceHalfKg": 350,
+    "priceOneKg": 550,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/vdf_1.jpg",
+      "/src/images_cake/vdf_2.jpg",
+      "/src/images_cake/vdf_3.jpg",
+      "/src/images_cake/vdf_4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pineapple",
+    "title": "Pineapple",
+    "category": "Classic",
+    "priceHalfKg": 300,
+    "priceOneKg": 500,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/p_1.jpg",
+      "/src/images_cake/p_2.jpg",
+      "/src/images_cake/p_3.jpg",
+      "/src/images_cake/p_4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Strawberry",
+    "title": "Strawberry",
+    "category": "Classic",
+    "priceHalfKg": 300,
+    "priceOneKg": 500,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/st_1.jpg",
+      "/src/images_cake/st_2.jpg",
+      "/src/images_cake/st_3.jpg",
+      "/src/images_cake/st_4.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Blueberry",
+    "title": "Blueberry",
+    "category": "Classic",
+    "priceHalfKg": 350,
+    "priceOneKg": 550,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bl_1.jpg",
+      "/src/images_cake/bl_2.jpg",
+      "/src/images_cake/bl_3.jpg",
+      "/src/images_cake/bl_4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Black Currant",
+    "title": "Black Currant",
+    "category": "Classic",
+    "priceHalfKg": 350,
+    "priceOneKg": 550,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bc_1.jpg",
+      "/src/images_cake/bc_2.jpg",
+      "/src/images_cake/bc_3.jpg",
+      "/src/images_cake/bc_4.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Paan Gulkand Cake",
+    "title": "Paan Gulkand Cake",
+    "category": "Classic",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/paan_1.jpg",
+      "/src/images_cake/paan_2.jpg",
+      "/src/images_cake/paan_3.jpg",
+      "/src/images_cake/paan_4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Choco-Vanilla",
+    "title": "Choco-Vanilla",
+    "category": "Classic",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/cv_1.jpg",
+      "/src/images_cake/cv_2.jpg",
+      "/src/images_cake/cv_3.jpg",
+      "/src/images_cake/cv_4.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mixed Fruit",
+    "title": "Mixed Fruit",
+    "category": "Fresh Fruit",
+    "priceHalfKg": null,
+    "priceOneKg": 700,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/fruit_1.jpg",
+      "/src/images_cake/fruit_2.jpg",
+      "/src/images_cake/fruit_3.jpg",
+      "/src/images_cake/fruit_4.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mixed Fruits & Dry Fruits",
+    "title": "Mixed Fruits & Dry Fruits",
+    "category": "Fresh Fruit",
+    "priceHalfKg": null,
+    "priceOneKg": 800,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/df_1.jpg",
+      "/src/images_cake/df_2.jpg",
+      "/src/images_cake/df_3.jpg",
+      "/src/images_cake/df_4.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Black Forest",
+    "title": "Black Forest",
+    "category": "Chocolate",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bf_1.jpg",
+      "/src/images_cake/bf_2.jpg",
+      "/src/images_cake/bf_3.jpg",
+      "/src/images_cake/bf_4.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dutch Truffle",
+    "title": "Dutch Truffle",
+    "category": "Chocolate",
+    "priceHalfKg": 450,
+    "priceOneKg": 800,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/dt_1.jpg",
+      "/src/images_cake/dt_2.jpg",
+      "/src/images_cake/dt_3.jpg",
+      "/src/images_cake/dt_4.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chocolate Delight",
+    "title": "Chocolate Delight",
+    "category": "Chocolate",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/cd_1.jpg",
+      "/src/images_cake/cd_2.jpg",
+      "/src/images_cake/cd_3.jpg",
+      "/src/images_cake/cd_4.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Mousse",
+    "title": "Chocolate Mousse",
+    "category": "Chocolate",
+    "priceHalfKg": 400,
+    "priceOneKg": 700,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/cm_1.jpg",
+      "/src/images_cake/cm_2.jpg",
+      "/src/images_cake/cm_3.jpg",
+      "/src/images_cake/cm_4.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chocolate Chocochips",
+    "title": "Chocolate Chocochips",
+    "category": "Chocolate",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/cc_1.jpg",
+      "/src/images_cake/cc_2.jpg",
+      "/src/images_cake/cc_3.jpg",
+      "/src/images_cake/cc_4.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Chocolate Oreo",
+    "title": "Chocolate Oreo",
+    "category": "Chocolate",
+    "priceHalfKg": 380,
+    "priceOneKg": 650,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/co_1.jpg",
+      "/src/images_cake/co_2.jpg",
+      "/src/images_cake/co_3.jpg",
+      "/src/images_cake/co_4.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Kitkat Chocolate",
+    "title": "Kitkat Chocolate",
+    "category": "Chocolate",
+    "priceHalfKg": 400,
+    "priceOneKg": 700,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/ck_1.jpg",
+      "/src/images_cake/ck_2.jpg",
+      "/src/images_cake/ck_3.jpg",
+      "/src/images_cake/ck_4.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Truffle with Almond Praline",
+    "title": "Truffle with Almond Praline",
+    "category": "Chocolate",
+    "priceHalfKg": 500,
+    "priceOneKg": 950,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/tap_1.jpg",
+      "/src/images_cake/tap_2.jpg",
+      "/src/images_cake/tap_3.jpg",
+      "/src/images_cake/tap_4.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Truffle with Roasted Almond",
+    "title": "Truffle with Roasted Almond",
+    "category": "Chocolate",
+    "priceHalfKg": 500,
+    "priceOneKg": 900,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/tra_1.jpg",
+      "/src/images_cake/tra_2.jpg",
+      "/src/images_cake/tra_3.jpg",
+      "/src/images_cake/tra_4.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "White Forest",
+    "title": "White Forest",
+    "category": "Chocolate",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/wf_1.jpg",
+      "/src/images_cake/wf_2.jpg",
+      "/src/images_cake/wf_3.jpg",
+      "/src/images_cake/wf_4.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Coffee Cake",
+    "title": "Coffee Cake",
+    "category": "Chocolate",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/ccf_1.jpg",
+      "/src/images_cake/ccf_2.jpg",
+      "/src/images_cake/ccf_3.jpg",
+      "/src/images_cake/ccf_4.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mango Delight",
+    "title": "Mango Delight",
+    "category": "Summer Special",
+    "priceHalfKg": 350,
+    "priceOneKg": 600,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/md_1.jpg",
+      "/src/images_cake/md_2.jpg",
+      "/src/images_cake/md_3.jpg",
+      "/src/images_cake/md_4.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rasmalai Cake",
+    "title": "Rasmalai Cake",
+    "category": "Special Cakes",
+    "priceHalfKg": 450,
+    "priceOneKg": 800,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/rc_1.jpg",
+      "/src/images_cake/rc_2.jpg",
+      "/src/images_cake/rc_3.jpg",
+      "/src/images_cake/rc_4.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mawa Cake",
+    "title": "Mawa Cake",
+    "category": "Special Cakes",
+    "priceHalfKg": 350,
+    "priceOneKg": 550,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/mc_1.jpg",
+      "/src/images_cake/mc_2.jpg",
+      "/src/images_cake/mc_3.jpg",
+      "/src/images_cake/mc_4.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Pineapple",
+    "title": "Pineapple",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 30,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/pc_1.jpg",
+      "/src/images_cake/pc_2.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Butterscotch",
+    "title": "Butterscotch",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 30,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bck_1.jpg",
+      "/src/images_cake/bck_2.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Strawberry",
+    "title": "Strawberry",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 30,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/sc_1.jpg",
+      "/src/images_cake/sc_2.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vanilla",
+    "title": "Vanilla",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 30,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/vc_1.jpg",
+      "/src/images_cake/vc_2.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Blueberry",
+    "title": "Blueberry",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 35,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/blb_1.jpg",
+      "/src/images_cake/blb_2.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Black Currant",
+    "title": "Black Currant",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 35,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/bk_1.jpg",
+      "/src/images_cake/bk_2.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Mango",
+    "title": "Mango",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 35,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/mk_1.jpg",
+      "/src/images_cake/mk_2.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Chocolate",
+    "title": "Chocolate",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 40,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/clk_1.jpg",
+      "/src/images_cake/clk_2.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Truffle",
+    "title": "Truffle",
+    "category": "Cupcakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": 50,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/tk_1.jpg",
+      "/src/images_cake/tk_2.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Classic",
+    "title": "Classic",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 160,
+    "images": [
+      "/src/images_cake/cb_1.jpg",
+      "/src/images_cake/cb_2.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Oreo",
+    "title": "Oreo",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 200,
+    "images": [
+      "/src/images_cake/ob_1.jpg",
+      "/src/images_cake/ob_2.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Truffle",
+    "title": "Truffle",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 200,
+    "images": [
+      "/src/images_cake/tb_1.jpg",
+      "/src/images_cake/tb_2.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Hazelnut",
+    "title": "Hazelnut",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 200,
+    "images": [
+      "/src/images_cake/hb_1.jpg",
+      "/src/images_cake/hb_2.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Walnut",
+    "title": "Walnut",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 200,
+    "images": [
+      "/src/images_cake/wb_1.jpg",
+      "/src/images_cake/wb_2.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Chocochip",
+    "title": "Chocochip",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 180,
+    "images": [
+      "/src/images_cake/cob_1.jpg",
+      "/src/images_cake/cob_2.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Milk Chocolate",
+    "title": "Milk Chocolate",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 240,
+    "images": [
+      "/src/images_cake/mcb_1.jpg",
+      "/src/images_cake/mcb_2.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "White Chocolate",
+    "title": "White Chocolate",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 250,
+    "images": [
+      "/src/images_cake/wcb_1.jpg",
+      "/src/images_cake/wcb_2.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Almond",
+    "title": "Almond",
+    "category": "Brownies",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": 200,
+    "images": [
+      "/src/images_cake/ab_1.jpg",
+      "/src/images_cake/ab_2.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Makeup Theme Cake",
+    "title": "Makeup Theme Cake",
+    "category": "Designer cakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/up_1.jpg",
+      "/src/images_cake/up_2.jpg",
+      "/src/images_cake/up_3.jpg",
+      "/src/images_cake/up_4.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Doll Cakes",
+    "title": "Doll Cakes",
+    "category": "Designer cakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/dc_1.jpg",
+      "/src/images_cake/dc_2.jpg",
+      "/src/images_cake/dc_3.jpg",
+      "/src/images_cake/dc_4.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Doraemon theme Cakes",
+    "title": "Doraemon theme Cakes",
+    "category": "Designer cakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/dr_1.jpg",
+      "/src/images_cake/dr_2.jpg",
+      "/src/images_cake/dr_3.jpg",
+      "/src/images_cake/dr_4.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Wine theme Cakes",
+    "title": "Wine theme Cakes",
+    "category": "Designer cakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/wn_1.jpg",
+      "/src/images_cake/wn_2.jpg",
+      "/src/images_cake/wn_3.jpg",
+      "/src/images_cake/wn_4.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Gym theme Cakes",
+    "title": "Gym theme Cakes",
+    "category": "Designer cakes",
+    "priceHalfKg": null,
+    "priceOneKg": null,
+    "price": null,
+    "price250g": null,
+    "images": [
+      "/src/images_cake/ym_1.jpg",
+      "/src/images_cake/ym_2.jpg",
+      "/src/images_cake/ym_3.jpg",
+      "/src/images_cake/ym_4.jpg"
+    ]
+  }
+]
